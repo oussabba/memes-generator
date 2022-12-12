@@ -57,3 +57,8 @@ button{
   border-radius: 5px;
   margin-top: 20px;
 }
+
+.meme-image{
+  width: 90%;
+  margin-top: 30px;
+}
